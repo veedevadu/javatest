@@ -1,1 +1,0 @@
-Place holder for an application configuration.
